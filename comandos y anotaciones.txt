@@ -1,0 +1,2 @@
+//saber versión de windows
+node --version
