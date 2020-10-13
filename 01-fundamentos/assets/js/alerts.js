@@ -9,3 +9,4 @@ const seleccion = confirm ('Estas seguro de borrar?');
 
 
 console.log(seleccion);
+
